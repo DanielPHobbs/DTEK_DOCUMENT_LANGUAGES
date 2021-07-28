@@ -1,0 +1,28 @@
+Date	Time	O/C	L/S	Ticker	Sh/Contr	 Price 	Comm	Amount	Type/Mult					
+	(optional)								(optional)					
+This sheet is a template for importing using the TradeLog Excel-Text import filter.														
+"Please delete everything from this spreadsheet except for row 1 and begin entering your own data, being very careful to follow our Excel-Text import filter users guide instructions."														
+														
+3/18/2010		B		WFC 17APR10 15 CALL	1	 1.90 	1.51	-191.51	O					
+4/7/2010		sold		WFC 17APR10 15 CALL	1	 1.31 	1.52	129.48	O					
+3/18/2010		Sell To Open	S	WFC 17APR10 16 CALL	2	 1.40 	3.02	276.98	O					
+4/7/2010		Buy To Close	S	WFC 17APR10 16 CALL	2	 0.85 	3.01	-173.01	O					
+3/19/2010		Buy		JPM	500	 25.80 	8.95	-12908.95						
+3/20/2010		Buy		JPM	300	 24.77 	8.95	-7439.95						
+3/24/2010		Sold		JPM	800	 28.45 	9.08	22750.92						
+4/23/2010		Buy to Open		AMZN	70	 79.98 	4.18	-5602.78						
+4/23/2010		Sell to Close		AMZN	80	 79.98 	4.77	-6403.17						
+4/24/2010		Sell		AMZN	100	 84.80 	6.19	8473.81						
+4/24/2010		Sell		AMZN	50	 84.80 	3.09	4236.91						
+4/30/2010	9:58:13	Sell to Open	S	C 15MAY10 3 CALL	20	 0.42 	23.03	816.97	O					
+5/12/2010	9:43:37	Buy to Close	S	C 15MAY10 3 CALL	20	 0.80 	23	-1623	O					
+5/21/2010	9:52:22	Sell to Open	S	C 19JUN10 4 PUT	17	 0.79 	20.79	1322.21	O					
+5/21/2010	10:07:10	Sell to Open	S	SPY	100	 89.26 	1.23	8924.77						
+5/21/2010	10:25:23	Buy to Close	S	SPY	100	 89.50 	1	-8951						
+5/27/2010	9:37:53	Buy		GOOG	10	 408.49 	3.58	-4088.48						
+5/27/2010	9:46:33	Buy		GOOG	15	 408.49 	5.37	-6132.72						
+5/28/2010	9:40:45	Sell		GOOG	25	 410.25 	9.22	10247.03						
+6/16/2010	9:46:33	Buy		RIMM	100	 82.00 	4.48	-8204.48						
+6/16/2010	9:58:16	Buy		RIMM	75	 82.00 	3.36	-6153.36						
+6/16/2010	10:13:14	Buy		RIMM	25	 82.00 	1.11	-2051.11						
+6/17/2010	9:40:45	S		RIMM	200	 77.32 	9.35	15454.65			
