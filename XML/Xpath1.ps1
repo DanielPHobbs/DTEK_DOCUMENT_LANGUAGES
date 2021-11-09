@@ -16,7 +16,7 @@
 
 #Select-Xml -Xml $XmlFileObj -XPath '/catalog/book[1]' | ForEach-Object {$_.node} | Select-Object title
 
-#elect-Xml -Xml $XmlFileObj -XPath '/catalog/book[last()-1]' | ForEach-Object {$_.node} | Select-Object title
+Select-Xml -Xml $XmlFileObj -XPath '/catalog/book[last()-1]' | ForEach-Object {$_.node} | Select-Object title | Format-Table -hide
 
-#Select-Xml -Xml $XmlFileObj -XPath '/catalog/book[position()<3]' | ForEach-Object {$_.node} | Select-Object title
+Select-Xml -Xml $XmlFileObj -XPath '/catalog/book[position()<3]' | ForEach-Object {$_.node} | Select-Object -ExpandProperty title
 
